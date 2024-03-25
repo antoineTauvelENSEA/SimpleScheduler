@@ -1,0 +1,2 @@
+../Core/Src/utils.c:10:6:readUSART	48	static
+../Core/Src/utils.c:31:6:displayLED	8	static
